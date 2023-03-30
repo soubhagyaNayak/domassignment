@@ -1,4 +1,5 @@
 ## Javascript -> <em>07. DOM Assignment</em> -> <em>02. Project2 - Portfolio Website (About Page)</em> 
+![image](https://user-images.githubusercontent.com/45428643/228925827-27269da2-4207-4d66-bd5e-55cf071b5152.png)
 
 <hr/>
 
