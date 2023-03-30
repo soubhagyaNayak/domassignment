@@ -1,6 +1,5 @@
 ## Javascript -> <em>07. DOM Assignment</em> -> <em>03. Project3 - Portfolio Website (Contact Page)</em> 
-![image](https://user-images.githubusercontent.com/45428643/228926098-338f9197-d52e-4430-ab90-14107274365a.png)
-![image](https://user-images.githubusercontent.com/45428643/228927537-36ecd223-a33d-4cd9-baaa-d2dd2a3f0bc5.png)
+
 
 
 
